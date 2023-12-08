@@ -1,4 +1,3 @@
-*.dzen.ru
 a248.e.akamai.net
 bc-dev.odni.marketing
 joplin.kroks.online
