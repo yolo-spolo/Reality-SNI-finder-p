@@ -14,3 +14,16 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
+buckwheat-deploy.site
+*.oneroute.microsoft.com
+eu.hormiga.ru
+*.dzen.ru
+a248.e.akamai.net
+bc-dev.odni.marketing
+joplin.kroks.online
+after-life.tech
+disk.fadxcom.ru
+srv.arsam2.icu
+yahoo.com
+n.sni-347-default.ssl.fastly.net
+jira.claimout.com
