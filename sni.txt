@@ -9,7 +9,12 @@ yahoo.com
 n.sni-347-default.ssl.fastly.net
 jira.claimout.com
 fennr.ru
-de.madao.site
+buckwheat-deploy.site
 bc-dev.odni.marketing
-mail.jpp.to
 mtx.external-gate.online
+eu.hormiga.ru
+disk.fadxcom.ru
+srv.arsam2.icu
+www.buckwheat-deploy.site
+de.madao.site
+mail.jpp.to
