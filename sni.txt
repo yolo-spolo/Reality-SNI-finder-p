@@ -27,3 +27,8 @@ srv.arsam2.icu
 yahoo.com
 n.sni-347-default.ssl.fastly.net
 jira.claimout.com
+fennr.ru
+de.madao.site
+bc-dev.odni.marketing
+mail.jpp.to
+mtx.external-gate.online
